@@ -1,0 +1,2 @@
+ruby ArcASCIItoCouchDB.rb "http://localhost:5984/elevation_sfbay" cgiar/srtm_12_05.asc 2700 3900
+

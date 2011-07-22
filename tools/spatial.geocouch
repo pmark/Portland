@@ -1,0 +1,3 @@
+"spatial": {
+	"points": "function(doc) { emit(doc.geometry, doc.elev); }"
+}

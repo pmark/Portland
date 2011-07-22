@@ -1,0 +1,6 @@
+{
+   "_id": "_design/lon_lat_elev",
+   "spatial": {
+       "points": "function(doc) { emit(doc.geometry, doc.elev); }"
+   }
+}

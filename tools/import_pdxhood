@@ -1,0 +1,2 @@
+ruby ArcASCIItoCouchDB.rb "http://localhost:5984/elevation_pdxhood" cgiar/srtm.pdx_hood.asc 0 960
+
